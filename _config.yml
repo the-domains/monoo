@@ -1,0 +1,23 @@
+name: monoo
+favicon: null
+layout_spectrum: 0.5563354298938066
+typography_spectrum: 0.8397667470853776
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.29085081769153476
+  lightness: 0.15764521225355566
+  saturation: 0.6103652350138873
+  rhythmicContrast: 0.7313442560844123
+purpose: []
